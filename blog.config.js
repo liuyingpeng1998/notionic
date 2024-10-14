@@ -4,7 +4,7 @@ const BLOG = {
   email: 'liuyingpeng1998@icloud.com',
   link: 'https://www.datou.ac.cn',
   newsletter: '期货弹子球周度观察',
-  description: '期货弹子球（Futures Pinball）是一个关于期货的知识库，搭建者大头，始于 2023 年。',
+  description: '是一个关于期货的知识库',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
